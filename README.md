@@ -1,5 +1,6 @@
 # V4L
 A VALORANT CBot in python; Previous version of v4l has been merged with [VAL0ADER](https://github.com/Lunahax/VAL0ADER)
+
 This Cbot is kind of outdated - functionality not guaranteed.
 
 ### Made by
@@ -14,8 +15,10 @@ https://discord.gg/v4l <br>
 
 ### Installation
 Download file > run file.
+
 The `main.py` file has been modified and does not loop - you would have to spam execute the file. Contact me on Discord for full functionality.
 
 ### Notes
 Use on your own risk
+
 Cbot reacts faster when the enemy is on the left side of your screen
