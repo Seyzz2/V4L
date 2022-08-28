@@ -14,22 +14,3 @@ A VALORANT CBot in python; Previous version of v4l has been merged with [VAL0ADE
 
 ### Discord
 https://discord.gg/v4l <br>
-
----
-
-## Table of Contents
-<br>• [Features](https://github.com/Lunahax/v4l/blob/main/README.md#features)
-<br>• [Download](https://github.com/Lunahax/v4l/blob/main/README.md#download)
-
----
-
-## Features
-- Adjustable FOV
-- Adjustable Reaction time
-- Easy to use
-- Presets
-
----
-
-## Download
-Download in releases.
