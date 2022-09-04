@@ -1,4 +1,4 @@
-# V4L
+![](https://raw.githubusercontent.com/Lunahax/images/main/V4L/img/v4l.jpg)
 A VALORANT CBot in python; Previous version of v4l has been merged with [VAL0ADER](https://github.com/Lunahax/VAL0ADER)
 
 This Cbot is kind of outdated - functionality not guaranteed.
